@@ -216,8 +216,8 @@ int main() {
    else{
 
     // Google Custom Search API Key and Search Engine ID
-   const string apiKey = "AIzaSyCJvwgP-_u3ODQ9Gxn787ehBqbhQIHBd8M"; 
-             const string searchEngineId = "70d6240c838cb4907"; 
+   const string apiKey = " "; 
+             const string searchEngineId = " "; 
 
     // Construct the API URL
     string apiUrl = "https://www.googleapis.com/customsearch/v1?q=" + urlEncode(query) +
